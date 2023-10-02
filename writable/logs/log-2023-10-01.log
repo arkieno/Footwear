@@ -1,0 +1,912 @@
+CRITICAL - 2023-10-01 09:29:24 --> Undefined variable $index
+in APPPATH\Views\admins\insert.php on line 129.
+ 1 APPPATH\Views\admins\insert.php(129): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $index', 'C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php', 129)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 5 APPPATH\Controllers\AdminController.php(57): view('admins/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->make()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 09:31:21 --> Undefined variable $index
+in APPPATH\Views\admins\insert.php on line 129.
+ 1 APPPATH\Views\admins\insert.php(129): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $index', 'C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php', 129)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 5 APPPATH\Controllers\AdminController.php(57): view('admins/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->make()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 09:33:16 --> Undefined variable $index
+in APPPATH\Views\admins\insert.php on line 206.
+ 1 APPPATH\Views\admins\insert.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $index', 'C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php', 206)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 5 APPPATH\Controllers\AdminController.php(57): view('admins/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->make()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 09:35:10 --> Undefined variable $index
+in APPPATH\Views\admins\insert.php on line 206.
+ 1 APPPATH\Views\admins\insert.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $index', 'C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php', 206)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 5 APPPATH\Controllers\AdminController.php(57): view('admins/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->make()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 09:36:40 --> Undefined variable $index
+in APPPATH\Views\admins\insert.php on line 206.
+ 1 APPPATH\Views\admins\insert.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $index', 'C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php', 206)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 5 APPPATH\Controllers\AdminController.php(57): view('admins/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->make()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 09:36:52 --> Undefined variable $index
+in APPPATH\Views\admins\insert.php on line 206.
+ 1 APPPATH\Views\admins\insert.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $index', 'C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php', 206)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 5 APPPATH\Controllers\AdminController.php(57): view('admins/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->make()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 09:36:57 --> Undefined variable $index
+in APPPATH\Views\admins\insert.php on line 206.
+ 1 APPPATH\Views\admins\insert.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $index', 'C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php', 206)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 5 APPPATH\Controllers\AdminController.php(57): view('admins/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->make()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 09:37:08 --> Undefined variable $index
+in APPPATH\Views\admins\insert.php on line 206.
+ 1 APPPATH\Views\admins\insert.php(206): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $index', 'C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php', 206)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 5 APPPATH\Controllers\AdminController.php(57): view('admins/insert', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->make()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 10:52:23 --> syntax error, unexpected variable "$routes"
+in APPPATH\Config\Routes.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(787): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 10:53:50 --> "authGuard" filter must have a matching alias defined.
+in SYSTEMPATH\Filters\Filters.php on line 350.
+ 1 SYSTEMPATH\Filters\Filters.php(350): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('authGuard')
+ 2 SYSTEMPATH\CodeIgniter.php(459): CodeIgniter\Filters\Filters->enableFilter('authGuard', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 10:56:59 --> Class "App\Filters\AuthGuard" not found
+in SYSTEMPATH\Filters\Filters.php on line 173.
+ 1 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('signup', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 10:57:36 --> Class "Config\AppFiltersAuthGuard" not found
+in SYSTEMPATH\Filters\Filters.php on line 173.
+ 1 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('signup', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 10:58:49 --> syntax error, unexpected token "class", expecting "," or ";"
+in APPPATH\Config\Filters.php on line 13.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\Lab3\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(277): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(196): CodeIgniter\Config\Factories::locateClass([...], 'Config\\Filters')
+ 6 SYSTEMPATH\Config\Factories.php(155): CodeIgniter\Config\Factories::getDefinedInstance([...], 'Config\\Filters', [])
+ 7 SYSTEMPATH\Common.php(217): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 8 SYSTEMPATH\Config\Services.php(290): config('Config\\Filters')
+ 9 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::filters(null, false)
+10 SYSTEMPATH\Config\BaseService.php(199): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+11 SYSTEMPATH\Config\Services.php(287): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+12 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::filters()
+13 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+14 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 10:59:06 --> Class "App\Filters\AuthGuard" not found
+in SYSTEMPATH\Filters\Filters.php on line 173.
+ 1 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('signup', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 10:59:43 --> Class "CodeIgniter\App\Filters\AuthGuard" not found
+in SYSTEMPATH\Filters\Filters.php on line 173.
+ 1 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('signup', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:01:27 --> syntax error, unexpected token "class", expecting "{"
+in APPPATH\Config\Filters.php on line 16.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\Lab3\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(277): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(196): CodeIgniter\Config\Factories::locateClass([...], 'Config\\Filters')
+ 6 SYSTEMPATH\Config\Factories.php(155): CodeIgniter\Config\Factories::getDefinedInstance([...], 'Config\\Filters', [])
+ 7 SYSTEMPATH\Common.php(217): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 8 SYSTEMPATH\Config\Services.php(290): config('Config\\Filters')
+ 9 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::filters(null, false)
+10 SYSTEMPATH\Config\BaseService.php(199): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+11 SYSTEMPATH\Config\Services.php(287): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+12 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::filters()
+13 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+14 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:03:00 --> Class "App\Filters\AuthGuard" not found
+in SYSTEMPATH\Filters\Filters.php on line 173.
+ 1 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('signup', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:05:41 --> Class "App\Filters\AuthGuard" not found
+in SYSTEMPATH\Filters\Filters.php on line 173.
+ 1 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('signup', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:06:13 --> Class "App\Filters\AuthGuard" not found
+in SYSTEMPATH\Filters\Filters.php on line 173.
+ 1 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('signup', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:06:14 --> Class "App\Filters\AuthGuard" not found
+in SYSTEMPATH\Filters\Filters.php on line 173.
+ 1 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('signup', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:06:15 --> Class "App\Filters\AuthGuard" not found
+in SYSTEMPATH\Filters\Filters.php on line 173.
+ 1 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('signup', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:06:15 --> Class "App\Filters\AuthGuard" not found
+in SYSTEMPATH\Filters\Filters.php on line 173.
+ 1 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('signup', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:06:16 --> Class "App\Filters\AuthGuard" not found
+in SYSTEMPATH\Filters\Filters.php on line 173.
+ 1 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('signup', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:06:16 --> Class "App\Filters\AuthGuard" not found
+in SYSTEMPATH\Filters\Filters.php on line 173.
+ 1 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('signup', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:06:16 --> Class "App\Filters\AuthGuard" not found
+in SYSTEMPATH\Filters\Filters.php on line 173.
+ 1 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('signup', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:06:19 --> Class "App\Filters\AuthGuard" not found
+in SYSTEMPATH\Filters\Filters.php on line 173.
+ 1 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('signup', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:07:49 --> Class "App\Filters\AuthGuard" not found
+in SYSTEMPATH\Filters\Filters.php on line 173.
+ 1 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('signup', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:10:21 --> Cannot declare class App\Filters\Filters, because the name is already in use
+in APPPATH\Config\Filters.php on line 14.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-01 11:10:45 --> Cannot declare class App\Filters\Filters, because the name is already in use
+in APPPATH\Config\Filters.php on line 12.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-01 11:10:58 --> syntax error, unexpected token "public"
+in APPPATH\Config\Filters.php on line 20.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\Lab3\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(277): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(196): CodeIgniter\Config\Factories::locateClass([...], 'Config\\Filters')
+ 6 SYSTEMPATH\Config\Factories.php(155): CodeIgniter\Config\Factories::getDefinedInstance([...], 'Config\\Filters', [])
+ 7 SYSTEMPATH\Common.php(217): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 8 SYSTEMPATH\Config\Services.php(290): config('Config\\Filters')
+ 9 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::filters(null, false)
+10 SYSTEMPATH\Config\BaseService.php(199): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+11 SYSTEMPATH\Config\Services.php(287): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+12 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::filters()
+13 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+14 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:11:46 --> syntax error, unexpected token "public"
+in APPPATH\Config\Filters.php on line 20.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\Lab3\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(277): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(196): CodeIgniter\Config\Factories::locateClass([...], 'Config\\Filters')
+ 6 SYSTEMPATH\Config\Factories.php(155): CodeIgniter\Config\Factories::getDefinedInstance([...], 'Config\\Filters', [])
+ 7 SYSTEMPATH\Common.php(217): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 8 SYSTEMPATH\Config\Services.php(290): config('Config\\Filters')
+ 9 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::filters(null, false)
+10 SYSTEMPATH\Config\BaseService.php(199): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+11 SYSTEMPATH\Config\Services.php(287): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+12 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::filters()
+13 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+14 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:12:18 --> Cannot declare class App\Filters\Filters, because the name is already in use
+in APPPATH\Config\Filters.php on line 14.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-01 11:12:31 --> Class "Config\AuthGuard" not found
+in SYSTEMPATH\Filters\Filters.php on line 173.
+ 1 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('signup', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:13:22 --> "authGuard" filter must have a matching alias defined.
+in SYSTEMPATH\Filters\Filters.php on line 350.
+ 1 SYSTEMPATH\Filters\Filters.php(350): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('authGuard')
+ 2 SYSTEMPATH\CodeIgniter.php(459): CodeIgniter\Filters\Filters->enableFilter('authGuard', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:15:22 --> syntax error, unexpected token "return", expecting "function" or "const"
+in APPPATH\Config\Filters.php on line 28.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\Lab3\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(277): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(196): CodeIgniter\Config\Factories::locateClass([...], 'Config\\Filters')
+ 6 SYSTEMPATH\Config\Factories.php(155): CodeIgniter\Config\Factories::getDefinedInstance([...], 'Config\\Filters', [])
+ 7 SYSTEMPATH\Common.php(217): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 8 SYSTEMPATH\Config\Services.php(290): config('Config\\Filters')
+ 9 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::filters(null, false)
+10 SYSTEMPATH\Config\BaseService.php(199): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+11 SYSTEMPATH\Config\Services.php(287): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+12 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::filters()
+13 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+14 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:16:11 --> syntax error, unexpected token "return", expecting "]"
+in APPPATH\Config\Filters.php on line 29.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\Lab3\\app\\Config\\Filters.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Filters')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Filters')
+ 4 SYSTEMPATH\Config\Factories.php(277): class_exists('Config\\Filters')
+ 5 SYSTEMPATH\Config\Factories.php(196): CodeIgniter\Config\Factories::locateClass([...], 'Config\\Filters')
+ 6 SYSTEMPATH\Config\Factories.php(155): CodeIgniter\Config\Factories::getDefinedInstance([...], 'Config\\Filters', [])
+ 7 SYSTEMPATH\Common.php(217): CodeIgniter\Config\Factories::__callStatic('config', [])
+ 8 SYSTEMPATH\Config\Services.php(290): config('Config\\Filters')
+ 9 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::filters(null, false)
+10 SYSTEMPATH\Config\BaseService.php(199): CodeIgniter\Config\BaseService::__callStatic('filters', [...])
+11 SYSTEMPATH\Config\Services.php(287): CodeIgniter\Config\BaseService::getSharedInstance('filters', null)
+12 SYSTEMPATH\Config\BaseService.php(258): CodeIgniter\Config\Services::filters()
+13 SYSTEMPATH\CodeIgniter.php(448): CodeIgniter\Config\BaseService::__callStatic('filters', [])
+14 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:18:47 --> "authGuard" filter must have a matching alias defined.
+in SYSTEMPATH\Filters\Filters.php on line 350.
+ 1 SYSTEMPATH\Filters\Filters.php(350): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('authGuard')
+ 2 SYSTEMPATH\CodeIgniter.php(459): CodeIgniter\Filters\Filters->enableFilter('authGuard', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:21:55 --> Class "Config\App\Filters\AuthGuardFilter" not found
+in SYSTEMPATH\Filters\Filters.php on line 173.
+ 1 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('signup', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:25:49 --> Class "Config\App\Filters\AuthGuardFilter" not found
+in SYSTEMPATH\Filters\Filters.php on line 173.
+ 1 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->run('signup', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 11:29:46 --> "authGuard" filter must have a matching alias defined.
+in SYSTEMPATH\Filters\Filters.php on line 350.
+ 1 SYSTEMPATH\Filters\Filters.php(350): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('authGuard')
+ 2 SYSTEMPATH\CodeIgniter.php(459): CodeIgniter\Filters\Filters->enableFilter('authGuard', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 12:16:20 --> Invalid file: "admins/add_product.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admins/add_product.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/add_product', [], true)
+ 3 APPPATH\Controllers\Admins.php(16): view('admins/add_product', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admins->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admins))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 12:38:11 --> Call to a member function move() on null
+in APPPATH\Controllers\AdminController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->FootwearProduct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 12:39:26 --> Call to a member function move() on null
+in APPPATH\Controllers\AdminController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->FootwearProduct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 12:40:33 --> syntax error, unexpected identifier "AdminController", expecting ")"
+in APPPATH\Config\Routes.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(787): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 SYSTEMPATH\CodeIgniter.php(442): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 12:41:25 --> Call to a member function move() on null
+in APPPATH\Controllers\AdminController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->FootwearProduct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 12:43:51 --> Invalid file: "signup.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('signup.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('signup', [], true)
+ 3 APPPATH\Controllers\UserController.php(13): view('signup', [])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\UserController->register()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+ERROR - 2023-10-01 12:45:34 --> mysqli_sql_exception: Table 'admin_db.users' doesn't exist in C:\laragon\www\Lab3\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\Lab3\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\laragon\www\Lab3\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\laragon\www\Lab3\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\laragon\www\Lab3\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\laragon\www\Lab3\system\Validation\StrictRules\Rules.php(206): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\Lab3\system\Validation\Validation.php(309): CodeIgniter\Validation\StrictRules\Rules->is_unique('rustomliquigan', 'username', Array, NULL, 'username')
+#6 C:\laragon\www\Lab3\system\Validation\Validation.php(195): CodeIgniter\Validation\Validation->processRules('username', 'username', 'rustomliquigan', Array, Array)
+#7 C:\laragon\www\Lab3\system\Controller.php(150): CodeIgniter\Validation\Validation->run()
+#8 C:\laragon\www\Lab3\app\Controllers\UserController.php(25): CodeIgniter\Controller->validate(Array)
+#9 C:\laragon\www\Lab3\system\CodeIgniter.php(919): App\Controllers\UserController->store()
+#10 C:\laragon\www\Lab3\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#11 C:\laragon\www\Lab3\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\laragon\www\Lab3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 C:\laragon\www\Lab3\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2023-10-01 12:45:34 --> Table 'admin_db.users' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT 1
+FROM `users`
+WHERE `username` = :username:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Validation\StrictRules\Rules.php(206): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\Validation\Validation.php(309): CodeIgniter\Validation\StrictRules\Rules->is_unique('rustomliquigan', 'username', [...], null, 'username')
+ 4 SYSTEMPATH\Validation\Validation.php(195): CodeIgniter\Validation\Validation->processRules('username', 'username', 'rustomliquigan', [...], [...])
+ 5 SYSTEMPATH\Controller.php(150): CodeIgniter\Validation\Validation->run()
+ 6 APPPATH\Controllers\UserController.php(25): CodeIgniter\Controller->validate([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\UserController->store()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+ERROR - 2023-10-01 12:46:42 --> mysqli_sql_exception: Table 'admin_db.users' doesn't exist in C:\laragon\www\Lab3\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\Lab3\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\laragon\www\Lab3\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\laragon\www\Lab3\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\laragon\www\Lab3\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\laragon\www\Lab3\system\Validation\StrictRules\Rules.php(206): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\Lab3\system\Validation\Validation.php(309): CodeIgniter\Validation\StrictRules\Rules->is_unique('rustomliquigan', 'username', Array, NULL, 'username')
+#6 C:\laragon\www\Lab3\system\Validation\Validation.php(195): CodeIgniter\Validation\Validation->processRules('username', 'username', 'rustomliquigan', Array, Array)
+#7 C:\laragon\www\Lab3\system\Controller.php(150): CodeIgniter\Validation\Validation->run()
+#8 C:\laragon\www\Lab3\app\Controllers\UserController.php(25): CodeIgniter\Controller->validate(Array)
+#9 C:\laragon\www\Lab3\system\CodeIgniter.php(919): App\Controllers\UserController->store()
+#10 C:\laragon\www\Lab3\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#11 C:\laragon\www\Lab3\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\laragon\www\Lab3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 C:\laragon\www\Lab3\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2023-10-01 12:46:42 --> Table 'admin_db.users' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT 1
+FROM `users`
+WHERE `username` = :username:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Validation\StrictRules\Rules.php(206): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\Validation\Validation.php(309): CodeIgniter\Validation\StrictRules\Rules->is_unique('rustomliquigan', 'username', [...], null, 'username')
+ 4 SYSTEMPATH\Validation\Validation.php(195): CodeIgniter\Validation\Validation->processRules('username', 'username', 'rustomliquigan', [...], [...])
+ 5 SYSTEMPATH\Controller.php(150): CodeIgniter\Validation\Validation->run()
+ 6 APPPATH\Controllers\UserController.php(25): CodeIgniter\Controller->validate([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\UserController->store()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+ERROR - 2023-10-01 12:48:51 --> mysqli_sql_exception: Table 'admin_db.users' doesn't exist in C:\laragon\www\Lab3\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\Lab3\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT 1\nFROM `...', 0)
+#1 C:\laragon\www\Lab3\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT 1\nFROM `...')
+#2 C:\laragon\www\Lab3\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM `...')
+#3 C:\laragon\www\Lab3\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM `...', Array, false)
+#4 C:\laragon\www\Lab3\system\Validation\StrictRules\Rules.php(206): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\Lab3\system\Validation\Validation.php(309): CodeIgniter\Validation\StrictRules\Rules->is_unique('rustomliquigan', 'username', Array, NULL, 'username')
+#6 C:\laragon\www\Lab3\system\Validation\Validation.php(195): CodeIgniter\Validation\Validation->processRules('username', 'username', 'rustomliquigan', Array, Array)
+#7 C:\laragon\www\Lab3\system\Controller.php(150): CodeIgniter\Validation\Validation->run()
+#8 C:\laragon\www\Lab3\app\Controllers\UserController.php(25): CodeIgniter\Controller->validate(Array)
+#9 C:\laragon\www\Lab3\system\CodeIgniter.php(919): App\Controllers\UserController->store()
+#10 C:\laragon\www\Lab3\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#11 C:\laragon\www\Lab3\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\laragon\www\Lab3\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 C:\laragon\www\Lab3\system\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\...')
+#14 {main}
+CRITICAL - 2023-10-01 12:48:51 --> Table 'admin_db.users' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT 1
+FROM `users`
+WHERE `username` = :username:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Validation\StrictRules\Rules.php(206): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\Validation\Validation.php(309): CodeIgniter\Validation\StrictRules\Rules->is_unique('rustomliquigan', 'username', [...], null, 'username')
+ 4 SYSTEMPATH\Validation\Validation.php(195): CodeIgniter\Validation\Validation->processRules('username', 'username', 'rustomliquigan', [...], [...])
+ 5 SYSTEMPATH\Controller.php(150): CodeIgniter\Validation\Validation->run()
+ 6 APPPATH\Controllers\UserController.php(25): CodeIgniter\Controller->validate([...])
+ 7 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\UserController->store()
+ 8 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 9 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 12:51:31 --> Call to a member function move() on null
+in APPPATH\Controllers\AdminController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->FootwearProduct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 12:52:33 --> syntax error, unexpected token "public"
+in APPPATH\Controllers\AdminController.php on line 109.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\Lab3\\app\\Controllers\\AdminController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\AdminController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\AdminController')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\AdminController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 12:55:45 --> Call to a member function move() on null
+in APPPATH\Controllers\AdminController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->FootwearProduct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 12:58:34 --> Call to a member function move() on null
+in APPPATH\Controllers\AdminController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->FootwearProduct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:01:32 --> Call to a member function isValid() on null
+in APPPATH\Controllers\AdminController.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->FootwearProduct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:01:45 --> Call to a member function move() on null
+in APPPATH\Controllers\AdminController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->FootwearProduct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:02:30 --> CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+in SYSTEMPATH\HTTP\SiteURI.php on line 401.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Views\admins\insert.php(123): base_url(null)
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 7 APPPATH\Controllers\AdminController.php(16): view('admins/insert', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:04:07 --> CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+in SYSTEMPATH\HTTP\SiteURI.php on line 401.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Views\admins\insert.php(123): base_url(null)
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 7 APPPATH\Controllers\AdminController.php(16): view('admins/insert', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:04:09 --> CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+in SYSTEMPATH\HTTP\SiteURI.php on line 401.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Views\admins\insert.php(123): base_url(null)
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 7 APPPATH\Controllers\AdminController.php(16): view('admins/insert', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:04:14 --> CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+in SYSTEMPATH\HTTP\SiteURI.php on line 401.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Views\admins\insert.php(123): base_url(null)
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 7 APPPATH\Controllers\AdminController.php(16): view('admins/insert', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:04:32 --> CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+in SYSTEMPATH\HTTP\SiteURI.php on line 401.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Views\admins\insert.php(123): base_url(null)
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 7 APPPATH\Controllers\AdminController.php(16): view('admins/insert', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:04:33 --> CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+in SYSTEMPATH\HTTP\SiteURI.php on line 401.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Views\admins\insert.php(123): base_url(null)
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 7 APPPATH\Controllers\AdminController.php(16): view('admins/insert', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:04:46 --> CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+in SYSTEMPATH\HTTP\SiteURI.php on line 401.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Views\admins\insert.php(123): base_url(null)
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 7 APPPATH\Controllers\AdminController.php(16): view('admins/insert', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:04:48 --> CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+in SYSTEMPATH\HTTP\SiteURI.php on line 401.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Views\admins\insert.php(123): base_url(null)
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 7 APPPATH\Controllers\AdminController.php(16): view('admins/insert', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:04:50 --> CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+in SYSTEMPATH\HTTP\SiteURI.php on line 401.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Views\admins\insert.php(123): base_url(null)
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 7 APPPATH\Controllers\AdminController.php(16): view('admins/insert', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:05:26 --> CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+in SYSTEMPATH\HTTP\SiteURI.php on line 401.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Views\admins\insert.php(123): base_url(null)
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 7 APPPATH\Controllers\AdminController.php(16): view('admins/insert', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:05:44 --> CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+in SYSTEMPATH\HTTP\SiteURI.php on line 401.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Views\admins\insert.php(123): base_url(null)
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 7 APPPATH\Controllers\AdminController.php(16): view('admins/insert', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:07:07 --> CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+in SYSTEMPATH\HTTP\SiteURI.php on line 401.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Views\admins\insert.php(123): base_url(null)
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 7 APPPATH\Controllers\AdminController.php(16): view('admins/insert', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:08:31 --> CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+in SYSTEMPATH\HTTP\SiteURI.php on line 401.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Views\admins\insert.php(123): base_url(null)
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 7 APPPATH\Controllers\AdminController.php(16): view('admins/insert', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:12:00 --> CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+in SYSTEMPATH\HTTP\SiteURI.php on line 401.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Views\admins\insert.php(123): base_url(null)
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 7 APPPATH\Controllers\AdminController.php(16): view('admins/insert', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:19:25 --> CodeIgniter\HTTP\SiteURI::stringifyRelativePath(): Return value must be of type string, null returned
+in SYSTEMPATH\HTTP\SiteURI.php on line 401.
+ 1 SYSTEMPATH\HTTP\SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath(null)
+ 2 SYSTEMPATH\Helpers\url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl(null, null)
+ 3 APPPATH\Views\admins\insert.php(123): base_url(null)
+ 4 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\insert.php')
+ 5 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/insert', [], true)
+ 7 APPPATH\Controllers\AdminController.php(16): view('admins/insert', [...])
+ 8 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+10 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:33:16 --> Call to a member function move() on null
+in APPPATH\Controllers\AdminController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->FootwearProduct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:33:26 --> Invalid file: "admins/edit_product.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admins/edit_product.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/edit_product', [], true)
+ 3 APPPATH\Controllers\AdminController.php(100): view('admins/edit_product', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->editProduct()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:34:15 --> Call to a member function move() on null
+in APPPATH\Controllers\AdminController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->FootwearProduct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:34:22 --> Call to a member function move() on null
+in APPPATH\Controllers\AdminController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->FootwearProduct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:36:13 --> Call to a member function move() on null
+in APPPATH\Controllers\AdminController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->FootwearProduct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:37:53 --> Call to a member function move() on null
+in APPPATH\Controllers\AdminController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->FootwearProduct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:39:00 --> Call to a member function isValid() on null
+in APPPATH\Controllers\AdminController.php on line 31.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->FootwearProduct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:39:49 --> Call to a member function isValid() on null
+in APPPATH\Controllers\AdminController.php on line 31.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->FootwearProduct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:42:21 --> syntax error, unexpected token "public"
+in APPPATH\Controllers\AdminController.php on line 66.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\Lab3\\app\\Controllers\\AdminController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\AdminController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\AdminController')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\AdminController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:43:12 --> syntax error, unexpected token "public"
+in APPPATH\Controllers\AdminController.php on line 65.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\Lab3\\app\\Controllers\\AdminController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\AdminController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\AdminController')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\AdminController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:44:22 --> Call to a member function isValid() on null
+in APPPATH\Controllers\AdminController.php on line 31.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->FootwearProduct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:44:41 --> Call to a member function move() on null
+in APPPATH\Controllers\AdminController.php on line 30.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->FootwearProduct()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:45:11 --> Undefined variable $picturePath
+in APPPATH\Controllers\AdminController.php on line 32.
+ 1 APPPATH\Controllers\AdminController.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $picturePath', 'C:\\laragon\\www\\Lab3\\app\\Controllers\\AdminController.php', 32)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->FootwearProduct()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:45:55 --> Invalid file: "admins/edit_product.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admins/edit_product.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/edit_product', [], true)
+ 3 APPPATH\Controllers\AdminController.php(96): view('admins/edit_product', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->editProduct()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:46:05 --> Invalid file: "admins/edit_product.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admins/edit_product.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/edit_product', [], true)
+ 3 APPPATH\Controllers\AdminController.php(96): view('admins/edit_product', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->editProduct()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 13:52:41 --> Undefined array key "id"
+in APPPATH\Views\admins\editfootwear.php on line 47.
+ 1 APPPATH\Views\admins\editfootwear.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\laragon\\www\\Lab3\\app\\Views\\admins\\editfootwear.php', 47)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\laragon\\www\\Lab3\\app\\Views\\admins\\editfootwear.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admins/editfootwear', [], true)
+ 5 APPPATH\Controllers\AdminController.php(96): view('admins/editfootwear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->editfootwear()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 14:13:50 --> Call to a member function isValid() on null
+in APPPATH\Controllers\AdminController.php on line 126.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->updatefootwearProduct('195')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 14:13:56 --> Call to a member function isValid() on null
+in APPPATH\Controllers\AdminController.php on line 126.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->updatefootwearProduct('195')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
+CRITICAL - 2023-10-01 14:13:59 --> Call to a member function isValid() on null
+in APPPATH\Controllers\AdminController.php on line 126.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\AdminController->updatefootwearProduct('195')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Lab3\\public\\index.php')
